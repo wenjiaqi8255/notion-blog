@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Wen Jiaqi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Wen Jiaqi, Design Brands and Products',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  behance: 'wenjiaqi8255',
+  github: 'wenjiaqi8255',
+  linkedin: 'wenjiaqi8255',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
