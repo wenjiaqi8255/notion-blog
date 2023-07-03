@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Wen's blog',
+  name: 'Wen',
   domain: 'wenjiaqi.com',
   author: 'Wen Jiaqi',
 
