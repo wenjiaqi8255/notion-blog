@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Wen Jiaqi, Design Brands and Products',
 
   // social usernames (optional)
-  behance: 'wenjiaqi8255',
+  // behance: 'wenjiaqi8255',
   github: 'wenjiaqi8255',
   linkedin: 'wenjiaqi8255',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
