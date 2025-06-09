@@ -54,11 +54,7 @@ export default siteConfig({
    navigationLinks: [
      {
        title: 'About',
-       pageId: 'c6b69e3542384b3a81747ac87e8b9422'
-     },
-     {
-       title: 'Contact',
-       pageId: '86aec2d8116247cc8d8847a16ef3da96'
+       pageId: 'Jiaqi-Wen-2062e9a3326a8088ab49e019eac93885'
      }
    ]
 })
